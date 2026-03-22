@@ -1,0 +1,20 @@
+---
+title: "Print Ship Services"
+type: "page"
+layout: "services"
+description: "Professional print-and-ship manufacturing services services — Upload your file, choose your material — we print and ship industrial-quality parts worldwide within 5 business days."
+heroImage: "https://images.unsplash.com/photo-1603796846097-bee99e4a601f?w=1920&q=80"
+process:
+  - step: "01"
+    title: "Consultation"
+    text: "We review your requirements, material specs, tolerances, and production volume to recommend the optimal process."
+  - step: "02"
+    title: "Design Review"
+    text: "DfAM analysis ensures your design is optimised for the chosen process — wall thickness, support strategy, and feature resolution."
+  - step: "03"
+    title: "Production"
+    text: "Parts produced to specification with full process monitoring, quality control, and material traceability."
+  - step: "04"
+    title: "Delivery"
+    text: "Inspection, finishing, and delivery with full documentation and material certification where required."
+---
