@@ -1,0 +1,183 @@
+baseURL = "https://printship.co/"
+languageCode = "en-us"
+title = "Print Ship"
+theme = "printwire"
+
+[params]
+tagline       = "Upload your file, choose your material — we print and ship industrial-quality parts worldwide within 5 business days."
+description   = "Print Ship is the instant manufacturing platform for metal and polymer 3D printed parts — DMLS, SLS, SLA, and FDM with global shipping to 50+ countries."
+keywords      = "print and ship 3D printing, online 3D printing service, metal parts shipping, DMLS online, instant manufacturing, 3D printing platform"
+logoEmoji     = "📦"
+contactEmail  = "maxdavisgroup@gmail.com"
+footerServicesLabel = "Services"
+
+colorPrimary      = "#10b981"
+colorPrimaryDark  = "#059669"
+colorPrimaryLight = "#34d399"
+colorBgDark       = "#040a07"
+colorBgSection    = "#060e0a"
+colorBgCard       = "#09130d"
+colorBgCardHover  = "#0d1a12"
+
+fontPrimary   = "Inter"
+fontSecondary = "Source+Sans+3"
+
+newsFallbackImages = ["https://images.unsplash.com/photo-1603796846097-bee99e4a601f?w=1920&q=80"]
+
+heroEyebrow  = "Print & Ship Manufacturing"
+heroTitle    = "Print. <em>Ship.</em>"
+heroSubtitle = "Upload your file, choose your material — we print and ship industrial-quality parts worldwide within 5 business days."
+heroCta1Text = "Explore Services"
+heroCta1URL  = "/services/"
+heroCta2Text = "Get a Quote"
+heroCta2URL  = "/contact/"
+heroImage    = "https://images.unsplash.com/photo-1603796846097-bee99e4a601f?w=1920&q=80"
+
+overviewTitle   = "Instant Manufacturing Platform"
+overviewText    = "Upload your CAD file. Select material and process. Receive a quote in 60 seconds. Parts shipped within 5 business days to 50+ countries."
+overviewBtnText = "View Services"
+overviewBtnURL  = "/services/"
+
+applicationsTitle = "Industries We Serve"
+servicesTitle    = "Print Ship Services"
+servicesSubtitle = "Upload your file, choose your material — we print and ship industrial-quality parts worldwide within 5 business days."
+clusterTitle = "Related 3D Printing Resources"
+newsletterTitle = "Industry Updates to Your Inbox"
+newsletterText  = "Research breakthroughs and industry news — delivered monthly."
+ctaTitle   = "Start Your Project"
+ctaText    = "Upload your file, choose your material — we print and ship industrial-quality parts worldwide within 5 business days."
+ctaBtnText = "Get in Touch"
+ctaBtnURL  = "/contact/"
+
+[[params.stats]]
+count  = 5
+suffix = "days"
+label  = "Average Shipping Lead Time"
+
+[[params.stats]]
+count  = 50
+suffix = "+"
+label  = "Countries Served"
+
+[[params.stats]]
+count  = 25
+suffix = "+"
+label  = "Materials Available"
+
+[[params.stats]]
+count  = 60
+suffix = "s"
+label  = "Instant Quote Time"
+
+
+[[params.applications]]
+title       = "Engineering Prototypes"
+description = "Metal and polymer prototypes for design validation — overnight shipping available."
+image       = "https://images.unsplash.com/photo-1603796846097-bee99e4a601f?w=1920&q=80"
+
+[[params.applications]]
+title       = "Small Production Runs"
+description = "1–500 parts in metal, nylon, or resin — no tooling, no minimums."
+image       = "https://images.unsplash.com/photo-1603796846097-bee99e4a601f?w=1920&q=80"
+
+[[params.applications]]
+title       = "Replacement Parts"
+description = "Upload a drawing or scan — we reverse-engineer and ship within a week."
+image       = "https://images.unsplash.com/photo-1603796846097-bee99e4a601f?w=1920&q=80"
+
+[[params.applications]]
+title       = "Urgent Parts"
+description = "Emergency manufacturing service — quote, print, and ship within 48 hours for critical parts."
+image       = "https://images.unsplash.com/photo-1603796846097-bee99e4a601f?w=1920&q=80"
+
+
+[[params.servicesPreview]]
+icon        = "◎"
+title       = "Metal 3D Printing"
+description = "DMLS in 316L, Ti6Al4V, AlSi10Mg, 17-4 PH — fully dense functional parts shipped worldwide."
+
+[[params.servicesPreview]]
+icon        = "📦"
+title       = "Polymer 3D Printing"
+description = "SLS nylon, SLA resin, and FDM engineering polymers — functional parts from $10, shipped in 2 days."
+
+[[params.servicesPreview]]
+icon        = "⚡"
+title       = "Instant Quoting"
+description = "AI-powered instant quote engine — upload STL, select material, get price in 60 seconds, 24/7."
+
+[[params.servicesPreview]]
+icon        = "🌍"
+title       = "Global Logistics"
+description = "DHL, FedEx, and UPS shipping to 50+ countries — real-time tracking from print to door."
+
+
+[[params.services]]
+name        = "Metal 3D Printing"
+description        = "DMLS in 316L, Ti6Al4V, AlSi10Mg, 17-4 PH — fully dense functional parts shipped worldwide."
+icon        = "◎"
+image        = "https://images.unsplash.com/photo-1603796846097-bee99e4a601f?w=800&q=80"
+
+[[params.services]]
+name        = "Polymer 3D Printing"
+description        = "SLS nylon, SLA resin, and FDM engineering polymers — functional parts from $10, shipped in 2 days."
+icon        = "📦"
+image        = "https://images.unsplash.com/photo-1603796846097-bee99e4a601f?w=800&q=80"
+
+[[params.services]]
+name        = "Instant Quoting"
+description        = "AI-powered instant quote engine — upload STL, select material, get price in 60 seconds, 24/7."
+icon        = "⚡"
+image        = "https://images.unsplash.com/photo-1603796846097-bee99e4a601f?w=800&q=80"
+
+[[params.services]]
+name        = "Global Logistics"
+description        = "DHL, FedEx, and UPS shipping to 50+ countries — real-time tracking from print to door."
+icon        = "🌍"
+image        = "https://images.unsplash.com/photo-1603796846097-bee99e4a601f?w=800&q=80"
+
+
+[[params.clusterLinks]]
+name        = "sendcutship.com"
+url         = "https://sendcutship.com"
+description = "Custom manufacturing flagship"
+
+[[params.clusterLinks]]
+name        = "dmls3d.com"
+url         = "https://dmls3d.com"
+description = "Metal 3D printing"
+
+[[params.clusterLinks]]
+name        = "3dprintmetal.com"
+url         = "https://3dprintmetal.com"
+description = "Metal 3D printing"
+
+[[params.clusterLinks]]
+name        = "metalpowder.co"
+url         = "https://metalpowder.co"
+description = "Metal powder for AM"
+
+[[menu.main]]
+name = "Home"
+url  = "/"
+weight = 1
+[[menu.main]]
+name = "About"
+url  = "/about/"
+weight = 2
+[[menu.main]]
+name = "Articles"
+url  = "/articles/"
+weight = 3
+[[menu.main]]
+name = "Services"
+url  = "/services/"
+weight = 4
+[[menu.main]]
+name = "Contact"
+url  = "/contact/"
+weight = 5
+[[menu.main]]
+name = "Advertise"
+url  = "/advertise/"
+weight = 6
